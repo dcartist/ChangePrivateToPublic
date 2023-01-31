@@ -49,6 +49,5 @@
 **13. Enter your password and click "Confirm"**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-01-31/6368010f-8017-4415-a28d-916dcf3d36d3/ascreenshot.jpeg?tl_px=193,68&amp;br_px=864,445&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,139)
-#### [Made with Scribe](https://scribehow.com/shared/Github_Workflow__VwDJVccOSdGHcqOytRy7mA)
 
 
