@@ -1,5 +1,3 @@
-# Github Workflow
-#### [Made by Paula Bannerman with Scribe](https://scribehow.com/shared/Github_Workflow__VwDJVccOSdGHcqOytRy7mA)
 
 
 **1. Navigate to https://github.com/**
